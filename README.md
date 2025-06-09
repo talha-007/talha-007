@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, My name is Talha👦<br>I'm a front-end developer from Pakistan. I'm eager😋 to learn more and more.
+Hello, My name is Talha👦<br>I'm a Software Engineer from Pakistan. I'm eager😋 to learn more and more.
 
 
 ## 🌐 Socials:
